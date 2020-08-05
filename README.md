@@ -14,15 +14,49 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 - 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MongoDB
 - 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
 - 👨🏻‍💻 You can find most of my projects here on [GitHub][github link]
-- 📫 You can reach me at: [abene1asus@gmail.com](abene1asus@gmail.com)
+- 📫 You can reach me at: [abene1asus@gmail.com](mailto:abene1asus@gmail.com)
 - 📝 Here is my [resume][resume link]
 
-[![website](https://img.shields.io/badge/Personal%20Website-andr--dev.github.io-0088cc?style=flat-square&logo=google-chrome&logoColor=0088cc)][website link]
-
-### Connect with me:
+[![profile views](https://komarev.com/ghpvc/?username=andr-dev&style=flat-square&color=blue)][github link]
+[![website](https://img.shields.io/badge/Personal%20Website-andr--dev.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)][website link]
 
 ### Languages and Tools:
 
-[github link]: https://github.com/andr-dev
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></code>
+
+<details>
+<summary><h3 style="display: inline !important;">Hackathon List</h3></summary>
+
+|   Hackathon    |    Location    |  Role  |                                                     Notes                                                      |               Github Repo                |
+| :------------: | :------------: | :----: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
+| uOttaHack 2019 | Ottawa, Canada | Hacker |                                                First Hackathon                                                 | [uOttaHack2019][hackathon uottahack2019] |
+| uOttaHack 2020 | Ottawa, Canada | Hacker | Built Ouch DeSlouch with [Aryan][user aryan thatte], [Carson][user carson fischl] and [Sean][user sean dsouza] | [uOttaHack2020][hackathon uottahack2020] |
+
+</details>
+
+<!--START_SECTION:activity-->
+
+[github link]: https://github.com/andr-dev/
 [resume link]: https://github.com/andr-dev/andr-dev/resume.pdf
-[website link]: https://andr-dev.github.io
+[website link]: https://andr-dev.github.io/
+[hackathon uottahack2019]: https://github.com/andr-dev/uOttaHack2019/
+[hackathon uottahack2020]: https://github.com/andr-dev/uOttaHack2020/
+[user sean dsouza]: https://github.com/seendsouza
+[user carson fischl]: https://github.com/carsonfischl
+[user aryan thatte]: https://github.com/guitAryan/
