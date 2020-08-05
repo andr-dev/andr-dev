@@ -51,9 +51,9 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 </details>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com//andr-dev/uOttaHack2019/pull/3) in [andr-dev/uOttaHack2019](https://github.com//andr-dev/uOttaHack2019)
-2. 🗣 Commented on [#74](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/74) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
-3. ❗️ Opened issue [#73](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/73) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
+1. 🗣 Commented on [#73](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/73) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
+2. ❌ Closed PR [#3](https://github.com//andr-dev/uOttaHack2019/pull/3) in [andr-dev/uOttaHack2019](https://github.com//andr-dev/uOttaHack2019)
+3. 🗣 Commented on [#74](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/74) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
 <!--END_SECTION:activity-->
 
 [github link]: https://github.com/andr-dev/
