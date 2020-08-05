@@ -41,7 +41,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></code>
 
 <details>
-<summary><h3 style="display: inline !important;">Hackathon List</h3></summary>
+<summary>Hackathon List</summary>
 
 |   Hackathon    |    Location    |  Role  |                                                     Notes                                                      |               Github Repo                |
 | :------------: | :------------: | :----: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
