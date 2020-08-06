@@ -50,6 +50,8 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 
 </details>
 
+### ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#73](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/73) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
 2. ❌ Closed PR [#3](https://github.com//andr-dev/uOttaHack2019/pull/3) in [andr-dev/uOttaHack2019](https://github.com//andr-dev/uOttaHack2019)
