@@ -13,6 +13,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 - 🌎 I can speak English, French, and Spanish, and am learning Mandarin Chinese
 - 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MongoDB
 - 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
+- 🏢 I'm open to fall 2021 internship opportunities
 - 👨🏻‍💻 You can find most of my projects here on [GitHub][github link]
 - 📫 You can reach me at: [abene1asus@gmail.com](mailto:abene1asus@gmail.com)
 - 📝 Here is my [resume][resume link]
@@ -33,7 +34,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="48" src="https://avatars3.githubusercontent.com/u/9950313"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
@@ -49,6 +50,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 #### Other
 
@@ -70,6 +72,10 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
+1. 🗣 Commented on [#73](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/73) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
+2. ❌ Closed PR [#3](https://github.com//andr-dev/uOttaHack2019/pull/3) in [andr-dev/uOttaHack2019](https://github.com//andr-dev/uOttaHack2019)
+3. 🗣 Commented on [#74](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH/issues/74) in [hieplpvip/ASUS-ZENBOOK-HACKINTOSH](https://github.com//hieplpvip/ASUS-ZENBOOK-HACKINTOSH)
 <!--END_SECTION:activity-->
 
 [github link]: https://github.com/andr-dev/
