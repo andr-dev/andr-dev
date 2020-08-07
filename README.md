@@ -22,23 +22,40 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 
 ### Languages and Tools:
 
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"></code>
+#### Programming Languages:
+
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+
+#### Full-Stack Web Development
+
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="48" src="https://semantic-ui.com/images/logo.png"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></code>
+
+#### Tools
+
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
+
+#### Other
+
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></code>
+<code><img height="48" src="https://www.chartjs.org/media/logo-title.svg"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
+<code><img height="48" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
 <details>
 <summary>Hackathon List</summary>
@@ -53,10 +70,6 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. undefined
-2. undefined
-3. undefined
-<!--END_SECTION:activity-->
 
 [github link]: https://github.com/andr-dev/
 [resume link]: https://github.com/andr-dev/andr-dev/resume.pdf
