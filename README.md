@@ -70,6 +70,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [github link]: https://github.com/andr-dev/
 [resume link]: https://github.com/andr-dev/andr-dev/resume.pdf
