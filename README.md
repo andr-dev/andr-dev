@@ -58,6 +58,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 <code><img height="48" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
 <code><img height="48" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img height="48" src="https://github.com/andr-dev/andr-dev/blob/master/assets/pinescript_logo.png"></code>
 
 <br />
 <details>
