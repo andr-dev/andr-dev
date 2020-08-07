@@ -59,8 +59,9 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"></code>
 <code><img height="48" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
 
+<br />
 <details>
-<summary>Hackathon List</summary>
+<summary><b>Hackathon List</b></summary>
 
 |   Hackathon    |    Location    |  Role  |                                                     Notes                                                      |               Github Repo                |
 | :------------: | :------------: | :----: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
@@ -68,15 +69,6 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 | uOttaHack 2020 | Ottawa, Canada | Hacker | Built Ouch DeSlouch with [Aryan][user aryan thatte], [Carson][user carson fischl] and [Sean][user sean dsouza] | [uOttaHack2020][hackathon uottahack2020] |
 
 </details>
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. undefined
-2. undefined
-3. undefined
-<!--END_SECTION:activity-->
 
 [github link]: https://github.com/andr-dev/
 [resume link]: https://github.com/andr-dev/andr-dev/resume.pdf
