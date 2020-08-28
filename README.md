@@ -64,10 +64,11 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 <details>
 <summary><b>Hackathon List</b></summary>
 
-|   Hackathon    |    Location    |  Role  |                                                     Notes                                                      |               Github Repo                |
-| :------------: | :------------: | :----: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
-| uOttaHack 2019 | Ottawa, Canada | Hacker |                                                First Hackathon                                                 | [uOttaHack2019][hackathon uottahack2019] |
-| uOttaHack 2020 | Ottawa, Canada | Hacker | Built Ouch DeSlouch with [Aryan][user aryan thatte], [Carson][user carson fischl] and [Sean][user sean dsouza] | [uOttaHack2020][hackathon uottahack2020] |
+|    Hackathon     |    Location    |  Role  |                                                     Notes                                                      |               Github Repo                |
+| :--------------: | :------------: | :----: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------: |
+|  uOttaHack 2019  | Ottawa, Canada | Hacker |                                                First Hackathon                                                 | [uOttaHack2019][hackathon uottahack2019] |
+|  uOttaHack 2020  | Ottawa, Canada | Hacker | Built Ouch DeSlouch with [Aryan][user aryan thatte], [Carson][user carson fischl] and [Sean][user sean dsouza] | [uOttaHack2020][hackathon uottahack2020] |
+| GarudaHacks 2020 |     Online     | Hacker | Created Scribr Lecture Summarizer with [Souradeep][user souradeep saha], [Goziem][user goziem abuah] and Samir |   [Scribr][hackathon garudahacks2020]    |
 
 </details>
 
@@ -76,6 +77,9 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 [website link]: https://andr-dev.github.io/
 [hackathon uottahack2019]: https://github.com/andr-dev/uOttaHack2019/
 [hackathon uottahack2020]: https://github.com/andr-dev/uOttaHack2020/
-[user sean dsouza]: https://github.com/seendsouza
-[user carson fischl]: https://github.com/carsonfischl
+[hackathon garudahacks2020]: https://github.com/andr-dev/Scribr/
+[user sean dsouza]: https://github.com/seendsouza/
+[user carson fischl]: https://github.com/carsonfischl/
 [user aryan thatte]: https://github.com/guitAryan/
+[user souradeep saha]: https://github.com/SouradeepSaha/
+[user goziem abuah]: https://github.com/GoziemAbuah/
