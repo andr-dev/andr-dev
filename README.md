@@ -5,18 +5,16 @@
 [![Instagram Badge](https://img.shields.io/badge/@andr.dito-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andr.dito/)
 [![Facebook Badge](https://img.shields.io/badge/@andr.dito-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/andr.dito/)
 
-Welcome to my [Github][github link]! I'm a self-taught quant and full stack developer from Ottawa, Canada.
+Welcome to my [Github][github link]! I'm a self-taught quant developer from Ottawa, Canada.
 
 ### Some info about me:
 
-- 📚 I'm a freshman studying Computer Science at the University of Waterloo
+- 📚 I'm a junior studying Computer Science at the University of Waterloo
 - 🌎 I can speak English, French, and Spanish, and am learning Mandarin Chinese
-- 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MongoDB
-- 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
-- 🏢 I'm open to fall 2021 internship opportunities
-- 👨🏻‍💻 You can find most of my projects here on [GitHub][github link]
+- 🚀 I'm currently focused on building market-making trading systems and on-chain arbitrage bots
+- 🏢 I'm open to summer 2024 internship opportunities
+- 👨🏻‍💻 You can find most of my non-trading projects here on [GitHub][github link]
 - 📫 You can reach me at: [abene1asus@gmail.com](mailto:abene1asus@gmail.com)
-- 📝 Here is my [resume][resume link]
 
 [![profile views](https://komarev.com/ghpvc/?username=andr-dev&style=flat-square&color=blue)][github link]
 [![website](https://img.shields.io/badge/Personal%20Website-andr--dev.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)][website link]
@@ -29,6 +27,7 @@ Welcome to my [Github][github link]! I'm a self-taught quant and full stack deve
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="48" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"></code>
 
 #### Full-Stack Web Development
 
